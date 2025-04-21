@@ -43,7 +43,7 @@
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/edge.png" alt="edge" width="100" hight="60">
 </br>
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="40">
-<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/intellij.png" alt="intellij" width="200" hight="10">
+<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/intellij.png" alt="intellij" width="200" hight="1">
 </br>
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/gmail.png" alt="gmail" width="100" hight="50">
