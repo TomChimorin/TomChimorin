@@ -47,7 +47,7 @@
 </br>
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/gmail.png" alt="gmail" width="100" hight="50">
-<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/linkedin.png" alt="linkedin" width="100" hight="50">
+<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/linkedin.png" alt="linkedin" width="100" hight="80">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/steam.png" alt="steam" width="100" hight="50">
 
 </br>
