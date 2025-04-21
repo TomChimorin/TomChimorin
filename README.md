@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Yu Zhao!
 
-<!--
-**TomChimorin/TomChimorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
 
-Here are some ideas to get you started:
+## 💻 What I do
+- 🎓 Computer Programming college graduate
+- 🛠️ Building apps using JavaScript, Python, Java, and more
+- 🌱 Currently learning: Web Frameworks (React, Next.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Notable Repositories
+- `personal-portfolio` — A responsive portfolio site that shares more about my personal life and hobbies
+- `certificates-and-badges` — Check out my certifications in coding and development
+- `link-manipulation-app` — A custom `.exe` app written in Python for efficient link handling and organization
+
+## 🔗 Find me
+- [LinkedIn](https://www.linkedin.com/in/yu-zhao/)
+- [LeetCode](https://leetcode.com/u/Chimorin/)
+- [Portfolio Website](https://assignment01-3d94.onrender.com)
+
+Thanks for stopping by!
