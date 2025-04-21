@@ -1,7 +1,7 @@
 # 👋 Ohayo!
 
 <div align="center">
-<img hight="200" width="800" alt="GIF" align="center" src="https://github.com/TomChimorin/TomChimorin/blob/55da31778a6dc2a1a9d416dd40fc4e7067ab316b/assets/13626.gif">
+<img hight="150" width="800" alt="GIF" align="center" src="https://github.com/TomChimorin/TomChimorin/blob/55da31778a6dc2a1a9d416dd40fc4e7067ab316b/assets/13626.gif">
 </div>
 
 </br>
