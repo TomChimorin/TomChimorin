@@ -47,13 +47,21 @@
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/linkedin.png" alt="linkedin" width="100" hight="50">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/steam.png" alt="steam" width="100" hight="50">
 
+</br>
+</br>
+</br>
 
-## 📂 Notable Repositories
+
+# 📂 Notable Repositories
 - `personal-portfolio` — A responsive portfolio site that shares more about my personal life and hobbies
 - `certificates-and-badges` — Check out my certifications in coding and development
 - `link-manipulation-app` — A custom `.exe` app written in Python for efficient link handling and organization
 
-## 🔗 Find me
+</br>
+</br>
+</br>
+
+# 🔗 Find me
 - [LinkedIn](https://www.linkedin.com/in/yu-zhao/)
 - [LeetCode](https://leetcode.com/u/Chimorin/)
 - [Portfolio Website](https://assignment01-3d94.onrender.com)
