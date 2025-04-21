@@ -4,6 +4,10 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/TomChimorin/TomChimorin/blob/55da31778a6dc2a1a9d416dd40fc4e7067ab316b/assets/13626.gif">
 </div>
 
+</br>
+</br>
+</br>
+
 Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/assets/13627.gif">
