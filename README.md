@@ -8,7 +8,7 @@
 </br>
 </br>
 
-## Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
+### Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
 
 ### - I'm 20 years old Full-Stack Web Development Enthusiast from China.
 
@@ -68,4 +68,4 @@
 </br>
 
 
-Thanks for stopping by!
+###Thanks for stopping by!
