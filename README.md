@@ -58,8 +58,7 @@
 - `link-manipulation-app` — A custom `.exe` app written in Python for efficient link handling and organization
 
 </br>
-</br>
-</br>
+
 
 # 🔗 Find me
 - [LinkedIn](https://www.linkedin.com/in/yu-zhao/)
