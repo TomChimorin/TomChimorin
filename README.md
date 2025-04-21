@@ -56,7 +56,7 @@
 
 
 # 🔗 Find me
-- [LinkedIn](https://www.linkedin.com/in/Yu-Zhao/)
+- [LinkedIn](https://www.linkedin.com/in/yu-zhao-72448a356/)
 - [LeetCode](https://leetcode.com/u/Chimorin/)
 - [Portfolio Website](https://assignment01-3d94.onrender.com)
 
