@@ -8,7 +8,7 @@
 </br>
 </br>
 
-### Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
+### Welcome to my GitHub! College projects, personal creations, study experiments, all <a href="https://github.com/TomChimorin?tab=repositories"># HERE</a>.
 
 ### - I'm 20 years old Full-Stack Web Development Enthusiast from China.
 
