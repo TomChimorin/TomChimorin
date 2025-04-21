@@ -45,7 +45,7 @@
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="40">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/intellij.png" alt="intellij" width="200" hight="1">
 </br>
-<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/pc.png" alt="pc" width="100" hight="30">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/gmail.png" alt="gmail" width="100" hight="50">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/linkedin.png" alt="linkedin" width="100" hight="80">
 <img src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/icons/steam.png" alt="steam" width="100" hight="50">
