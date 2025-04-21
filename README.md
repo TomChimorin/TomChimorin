@@ -10,6 +10,8 @@
 
 ## Welcome to my GitHub! Here you'll find a mix of college projects, personal creations, and study experiments I've worked on.
 
+### - I'm 20 years old Full-Stack Web Development Enthusiast from China.
+
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/TomChimorin/TomChimorin/blob/0a6358b11300e7a287e199c733031d9146aa5a98/assets/13627.gif">
 
 ### - 💻 What I do :
