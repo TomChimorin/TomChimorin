@@ -32,9 +32,6 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
 <p align="center">
 
 # 💻 Tech Stack:
